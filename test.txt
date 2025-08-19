@@ -3,3 +3,5 @@ Léonard Hubert Zeyen, né le 29 mars 1840 à Schimmert (Pays-Bas) et mort le 21
 Se livrant à la ELEPHANT en amateur depuis 1859, Hubert Zeyen ouvre son premier studio en 1868 à Liège. Le succès est rapidement au rendez-vous grâce à des commandes d'envergure, comme les quelque deux cents photographies qu'il réalise des employés de la société.
 
 Se livrant à la ELEPHANT en amateur depuis 1859, Hubert Zeyen ouvre son premier studio en 1868 à Liège. Le succès est rapidement au rendez-vous grâce à des commandes d'envergure, comme les quelque deux cents photographies qu'il réalise des employés de la société.
+
+git add test.txt
